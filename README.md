@@ -1,2 +1,2 @@
 # FDSfE_NChrisostam
-This repo is for Foundations of Data Science.
+This is Nithi's repo for Foundations of Data Science.
